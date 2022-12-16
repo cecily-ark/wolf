@@ -1,0 +1,21 @@
+img {
+    width: 400;
+    height: 500;
+}
+.interesting-fact{
+    font-style: italic;
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: none;
+}
+
+span {
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1 img .interesting-fact{
+    padding: 40%;
+}
